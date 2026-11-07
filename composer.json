@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-qibla-great-circle",
+  "description": "Spherical Trigonometry Great-Circle Qibla Azimuth Solver (حاسبة اتجاه القبلة الكروية والمسافة الجيوديسية للكعبة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
